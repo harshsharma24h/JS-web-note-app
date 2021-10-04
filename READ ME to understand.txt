@@ -1,0 +1,6 @@
+this is the web app based on javascript !
+
+it is a notes app  where u can store your notes to remember it later in the form of card .
+
+I put an search bar also there so the we can find the note if notes are too many. to easy find
+
